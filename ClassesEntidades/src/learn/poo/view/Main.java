@@ -99,7 +99,6 @@ public class Main {
         cliente2.avaliarAtendimento();
 
         //Classe Usuário
-
         Usuario usuario1= new Usuario();
         usuario1.idUsuario = 1;
         usuario1.nomeUsuario = "Samuel";
@@ -108,7 +107,8 @@ public class Main {
         usuario1.telefoneUsuario = "(13) 998765-4321";
         usuario1.criarUsuario();
 
-        //Classe 
+        
+
             
     }
 
